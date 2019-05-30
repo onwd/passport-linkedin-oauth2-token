@@ -1,5 +1,7 @@
 # passport-linkedin-oauth2-token
 
+[![npm package](https://img.shields.io/npm/v/passport-linkedin-oauth2-token.svg)](https://npmjs.org/package/passport-linkedin-oauth2-token)
+
 Token strategy for LinkedIn OAuth2 that supports `r_liteprofile` and `r_emailaddress` scopes.
 
 ## Install
