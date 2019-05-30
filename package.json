@@ -16,6 +16,12 @@
     "url": "https://github.com/onwd/passport-linkedin-oauth2-token/issues"
   },
   "homepage": "https://github.com/onwd/passport-linkedin-oauth2-token#readme",
+  "keywords": [
+    "passport",
+    "linkedin",
+    "oauth2",
+    "token"
+  ],
   "dependencies": {
     "passport-oauth2": "^1.5.0"
   }
