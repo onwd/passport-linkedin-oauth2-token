@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/onwd/passport-linkedin-oauth2-token#readme",
   "dependencies": {
-    "passport-oauth": "^1.0.0"
+    "passport-oauth2": "^1.5.0"
   }
 }
